@@ -40,8 +40,8 @@ const App: FunctionComponent=() =>{
                    </div>
                     ))}
                    
-              
-      
+        
+
         
         </div>
     )
